@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b5813d7-961b-4b96-b959-3be3aef0c6c2">
+  <img src="https://github.com/user-attachments/assets/5cc902b9-716e-41a1-b675-4ee8f49d87c4">
 </p>
 
 # Previsão de Números Desenhados
